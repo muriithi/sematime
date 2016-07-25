@@ -1,5 +1,3 @@
-# sematime
-
 SEMATIME
 =========
 
@@ -13,7 +11,7 @@ Send sms using the sematime API
 
     var sematime = require('sematime');
 
-    sematime.sendsemasms(apikey, userid, message, recipient);
+    sematime.sendsemasms("apikey", "userid", "message", "recipient");
 
 
 ## Tests
