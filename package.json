@@ -1,6 +1,6 @@
 {
   "name": "sematime",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Send SMS using the Sematime API",
   "main": "index.js",
   "scripts": {
